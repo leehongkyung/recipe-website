@@ -20,5 +20,7 @@ This recipe website was created to help college students decide what to eat and 
 As many students choose to consume fast food or take-out, this website provides alternatives for
 those who want to achieve healthier lifestyles. 
  
+# License
+This project is licensed under the terms of the MIT license. 
 
 
