@@ -24,3 +24,5 @@ http://studentweb.comminfo.rutgers.edu/class-2017-9-04-547-320-pichugin/pm521/fi
 # License
 This project is licensed under the terms of the MIT license. 
 
+The images used in this project belong to their respective owners. 
+
