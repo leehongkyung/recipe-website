@@ -17,8 +17,10 @@ Every time the user clicks on the button, the website suggests a randomly chosen
 
 # Motivation
 This recipe website was created to help college students decide what to eat other than fast food or take-out, bridging the gap between nutrition and healthier lifestyle choices. 
+
+The link below directs to the functioning website.
+http://studentweb.comminfo.rutgers.edu/class-2017-9-04-547-320-pichugin/pm521/final/
  
 # License
 This project is licensed under the terms of the MIT license. 
-
 
